@@ -12,6 +12,6 @@ public class HelloWorld {
         System.out.println("Hello World: "+sub+" times");
         System.out.println("Hello World: "+mul+" times");
         System.out.println("Hello World: "+div+" times");
-        System.out.println("Hello World: "+mod+" times");
+
     }
 }
